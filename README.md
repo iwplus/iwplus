@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iwplus (Irwansyah)
-- 👀 I’m interested in Mathematics and its applications (especially, the ones with computations)
+- 👀 I’m interested in Computational Algebra, Optimization, Computational Statistics, and their intersections such as Machine Learning, etc
 - 📫 Reach me via iwematik@gmail.com or irw@unram.ac.id
 
 <!---
